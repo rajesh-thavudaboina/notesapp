@@ -1,6 +1,6 @@
 version : "3.3"
 services :
   web :
-     image : my-note-app
+     image : notes-app
      ports :
          - "8000:8000"
